@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./README/UdemyLogo.png" alt="Markdownify" width="500"></a>
+  <a href="#"><img src="./README/UdemyLogo.png" alt="Markdownify" width="500"></a>
   <br>
   ExpenseTracker
   <br>
@@ -17,20 +17,20 @@
 
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> •
-  <a href="#setup">Setup</a> •
+  <!-- <a href="#setup">Setup</a> • -->
   <a href="#how-to-use">How To Use</a> •
-  <a href="#todo">Todo</a> •
+  <!-- <a href="#todo">Todo</a> • -->
   <a href="#support">Support</a> •
 </p>
 
-![screenshot](./README/test.gif)
+![screenshot](./README/test.png)
 
 ## Prerequisites
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/en/download/)
 * [npm](http://npmjs.com)
 
-## Setup
+<!-- ## Setup -->
 
 ## How to Use
 
@@ -45,8 +45,8 @@ $ npm install
 $ npm start
 ```
 
-## TODO
-* 
+<!-- ## TODO -->
+<!-- *  -->
 
 ## Support
 
