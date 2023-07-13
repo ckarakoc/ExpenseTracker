@@ -20,7 +20,7 @@
   <!-- <a href="#setup">Setup</a> • -->
   <a href="#how-to-use">How To Use</a> •
   <!-- <a href="#todo">Todo</a> • -->
-  <a href="#support">Support</a> •
+  <a href="#support">Support</a> 
 </p>
 
 ![screenshot](./README/test.png)
