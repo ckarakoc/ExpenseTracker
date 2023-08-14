@@ -9,12 +9,13 @@ export default function ExpenseForm(props) {
     function titleChangeHandler(event) { setEnteredTitle(event.target.value); };
     function amountChangeHandler(event) { setEnteredAmount(event.target.value); };
     function dateChangeHandler(event) { setEnteredDate(event.target.value); };
+
     function submitHandler(event) {
         event.preventDefault();
         const expenseData = {
             title: enteredTitle,
             amount: enteredAmount,
-            data: new Date(enteredDate),
+            date: new Date(enteredDate),
         }
 
         props.onSaveExpenseData(expenseData);
