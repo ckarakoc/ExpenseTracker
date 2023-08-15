@@ -23,7 +23,7 @@
   <a href="#support">Support</a> 
 </p>
 
-![screenshot](./README/test.png)
+![screenshot](./README/test.gif)
 
 ## Prerequisites
 * [Git](https://git-scm.com)
